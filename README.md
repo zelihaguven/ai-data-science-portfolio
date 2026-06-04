@@ -1,23 +1,85 @@
 # AI & Data Science Portfolio
 
-A curated collection of projects developed throughout my journey in Artificial Intelligence, Data Science, Machine Learning, and Data Analysis.
+A curated collection of projects developed throughout my journey in Artificial Intelligence, Data Science, Machine Learning, Optimization, and Data Analysis.
 
-This repository brings together academic projects, machine learning applications, optimization studies, and analytical exercises to showcase both theoretical understanding and practical implementation skills.
+This repository consolidates multiple academic, personal, and case-study projects into a single portfolio, showcasing both theoretical knowledge and practical implementation skills.
 
 ---
-## Learning Areas
 
-This portfolio covers:
+## Areas of Interest
 
-* Machine Learning
+This portfolio reflects my interests in:
+
 * Artificial Intelligence
+* Machine Learning
+* Data Science
 * Optimization Algorithms
-* Data Analysis
-* Statistical Thinking
+* Data Analytics
 * Computational Problem Solving
 
 ---
-## Machine Learning
+
+## Projects
+
+### Aurix — AI-Powered Anomaly Detection System
+
+A fintech-oriented machine learning case study focused on detecting suspicious digital gold transactions using anomaly detection techniques.
+
+#### Highlights
+
+* Unsupervised anomaly detection with Isolation Forest
+* Supervised benchmark using Random Forest
+* Feature engineering and exploratory data analysis
+* Decision-support system with risk tiers
+* Transaction simulation and business impact analysis
+
+#### Key Topics
+
+* Anomaly Detection
+* Fraud Detection
+* Feature Engineering
+* Unsupervised Learning
+* Fintech Analytics
+
+---
+
+### Farmer Agent Simulation
+
+An Artificial Intelligence project demonstrating model-based reflex agents operating in a partially observable environment.
+
+Three different agent architectures were implemented and compared based on memory usage, decision-making strategies, and overall performance.
+
+#### Key Topics
+
+* Intelligent Agents
+* PEAS Framework
+* Agent-Based Systems
+* Decision Making
+* Artificial Intelligence Fundamentals
+
+---
+
+### Metaheuristic Optimization Algorithms
+
+Comparative analysis of four metaheuristic optimization algorithms:
+
+* Particle Swarm Optimization (PSO)
+* Differential Evolution (DE)
+* Simulated Annealing (SA)
+* Tabu Search (TS)
+
+The project includes algorithm implementations, simulation environments, performance analyses, and academic documentation.
+
+#### Key Topics
+
+* Optimization
+* Computational Intelligence
+* Search Algorithms
+* Algorithm Benchmarking
+
+---
+
+## Machine Learning Projects
 
 ### House Price Prediction
 
@@ -29,11 +91,10 @@ Machine learning models developed to predict salaries based on multiple input fe
 
 ### Customer Segmentation
 
-Customer clustering and segmentation analysis using data mining and machine learning techniques.
+Customer clustering and segmentation analysis using machine learning and data mining techniques.
 
-**Key Topics**
+#### Topics Covered
 
-* Supervised Learning
 * Regression
 * Classification
 * Clustering
@@ -42,25 +103,7 @@ Customer clustering and segmentation analysis using data mining and machine lear
 
 ---
 
-## Artificial Intelligence
-
-### Farmer Agent Simulation
-
-An Artificial Intelligence project demonstrating model-based reflex agents operating in a partially observable environment.
-
-Three different agent architectures were implemented and evaluated based on their performance, memory usage, and decision-making strategies.
-
-**Key Topics**
-
-* Intelligent Agents
-* PEAS Framework
-* Agent Environments
-* Search and Decision Making
-* Artificial Intelligence Fundamentals
-
----
-
-## Data Analysis
+## Data Analysis Projects
 
 ### Data Manipulation
 
@@ -84,48 +127,39 @@ Topics include:
 
 ---
 
-## Optimization
+## Technologies
 
-### Metaheuristic Optimization Algorithms
+### Programming & Analysis
 
-Comparative analysis of four widely used metaheuristic optimization techniques:
+* Python
+* Jupyter Notebook
+* NumPy
+* Pandas
+
+### Machine Learning & AI
+
+* Scikit-Learn
+* Isolation Forest
+* Random Forest
+* Clustering Algorithms
+* Agent-Based Systems
+
+### Visualization
+
+* Matplotlib
+* Seaborn
+
+### Research & Optimization
 
 * Particle Swarm Optimization (PSO)
 * Differential Evolution (DE)
 * Simulated Annealing (SA)
 * Tabu Search (TS)
 
-The project includes:
-
-* Algorithm implementations
-* Simulation environments
-* Performance comparisons
-* Academic research documentation
-
-**Key Topics**
-
-* Optimization
-* Search Algorithms
-* Computational Intelligence
-* Algorithm Benchmarking
-
 ---
-
-## Technologies
-
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* Jupyter Notebook
-* Optimization Algorithms
-* Artificial Intelligence Techniques
-
----
-
 
 ## Repository Note
 
-This repository consolidates several projects that were originally developed independently during different stages of my academic and personal learning journey. The projects have been organized into a single portfolio to provide a clearer overview of my work in Artificial Intelligence and Data Science.
+The projects in this repository were originally developed as independent academic assignments, personal projects, and machine learning case studies. They have been consolidated into a single portfolio to provide a structured overview of my work in Artificial Intelligence and Data Science.
 
+Each project represents a different stage of my learning journey and explores distinct concepts ranging from predictive modeling and anomaly detection to intelligent agents and optimization techniques.
