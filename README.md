@@ -1,94 +1,131 @@
-# Data Science Portfolio
-A curated collection of my data science, machine learning, and analytics projects.
+# AI & Data Science Portfolio
 
-### 1. House Price Prediction
-Predicting house prices using machine learning techniques and regression models.
+A curated collection of projects developed throughout my journey in Artificial Intelligence, Data Science, Machine Learning, and Data Analysis.
 
-**Skills & Tools**
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Data Visualization
-- Regression Analysis
+This repository brings together academic projects, machine learning applications, optimization studies, and analytical exercises to showcase both theoretical understanding and practical implementation skills.
+
+---
+## Learning Areas
+
+This portfolio covers:
+
+* Machine Learning
+* Artificial Intelligence
+* Optimization Algorithms
+* Data Analysis
+* Statistical Thinking
+* Computational Problem Solving
+
+---
+## Machine Learning
+
+### House Price Prediction
+
+Predictive modeling project focused on estimating house prices using regression techniques and data preprocessing methods.
+
+### Salary Prediction
+
+Machine learning models developed to predict salaries based on multiple input features.
+
+### Customer Segmentation
+
+Customer clustering and segmentation analysis using data mining and machine learning techniques.
+
+**Key Topics**
+
+* Supervised Learning
+* Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Model Evaluation
 
 ---
 
-### 2. Salary Prediction with Machine Learning
-Building predictive models to estimate salaries based on various features.
+## Artificial Intelligence
 
-**Skills & Tools**
-- Machine Learning
-- Data Preprocessing
-- Feature Engineering
-- Regression Models
-- Scikit-Learn
+### Farmer Agent Simulation
 
----
+An Artificial Intelligence project demonstrating model-based reflex agents operating in a partially observable environment.
 
-### 3. Customer Segmentation Analysis
-Analyzing customer behavior and creating customer groups using clustering techniques.
+Three different agent architectures were implemented and evaluated based on their performance, memory usage, and decision-making strategies.
 
-**Skills & Tools**
-- Exploratory Data Analysis (EDA)
-- Customer Analytics
-- Clustering
-- Data Visualization
-- Python
+**Key Topics**
+
+* Intelligent Agents
+* PEAS Framework
+* Agent Environments
+* Search and Decision Making
+* Artificial Intelligence Fundamentals
 
 ---
 
-### 4. Data Manipulation
-Practical exercises and projects focused on cleaning, transforming, and manipulating datasets.
+## Data Analysis
 
-**Skills & Tools**
-- Pandas
-- Data Cleaning
-- Data Wrangling
-- Data Transformation
+### Data Manipulation
+
+Practical exercises and projects focused on:
+
+* Data Cleaning
+* Data Transformation
+* Data Wrangling
+* Exploratory Data Analysis
+
+### Linear Algebra for Data Science
+
+Applications of linear algebra concepts frequently used in machine learning and data science.
+
+Topics include:
+
+* Vectors
+* Matrices
+* Matrix Operations
+* Linear Transformations
 
 ---
 
-### 5. Linear Algebra for Data Science
-Applications of linear algebra concepts in data science and machine learning.
+## Optimization
 
-**Topics Covered**
-- Vectors
-- Matrices
-- Matrix Operations
-- Linear Transformations
-- Numerical Computing
+### Metaheuristic Optimization Algorithms
 
----
+Comparative analysis of four widely used metaheuristic optimization techniques:
 
-### 6. Learning Python
-Python fundamentals, problem-solving exercises, and programming practice.
+* Particle Swarm Optimization (PSO)
+* Differential Evolution (DE)
+* Simulated Annealing (SA)
+* Tabu Search (TS)
 
-**Topics Covered**
-- Python Basics
-- Functions
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
+The project includes:
+
+* Algorithm implementations
+* Simulation environments
+* Performance comparisons
+* Academic research documentation
+
+**Key Topics**
+
+* Optimization
+* Search Algorithms
+* Computational Intelligence
+* Algorithm Benchmarking
 
 ---
 
 ## Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Jupyter Notebook
+* Optimization Algorithms
+* Artificial Intelligence Techniques
 
-## About Me
+---
 
-Computer Engineering student with interests in Data Science, Machine Learning, Artificial Intelligence, and Software Development. This repository documents my learning journey and hands-on projects in data analysis and predictive modeling.
 
 ## Repository Note
 
-This repository was created to consolidate several previously independent data science and machine learning projects into a single portfolio. The projects were developed at different stages of my learning journey and later organized here for easier access and presentation.
+This repository consolidates several projects that were originally developed independently during different stages of my academic and personal learning journey. The projects have been organized into a single portfolio to provide a clearer overview of my work in Artificial Intelligence and Data Science.
 
-Original project development dates may differ from the repository creation date.
